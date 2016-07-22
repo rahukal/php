@@ -1,0 +1,15 @@
+For Checking if group Exists or not :
+http://www.sandeepbeniwal.com/ilist/admin/xmlservice/checkGroup.php?groupName=test
+
+For Sign Up : 
+http://localhost/ilist/admin/xmlservice/signUp.php?groupName=test&email=email1v@gmail.com&password=test&deviceId=fsdfasdfasdfasdfsdffasdfsdf
+
+For Sign In : 
+http://www.sandeepbeniwal.com/ilist/admin/xmlservice/signIn.php?groupName=birthday&password=kakkar
+
+
+For getting Master List with translation : 
+http://www.sandeepbeniwal.com/ilist/admin/xmlservice/getMasterList.php?locale=it
+
+For getting Group Data
+http://www.sandeepbeniwal.com/ilist/admin/xmlservice/getGroupData.php?groupName=birthday
